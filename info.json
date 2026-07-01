@@ -1,12 +1,12 @@
 {
   "name": "ElementForge",
   "slug": "elementforge",
-  "version": "1.0.8",
-  "download_url": "https://raw.githubusercontent.com/jclark2251-dotcom/elementforge-update/main/elementforge-1.0.8.zip",
+  "version": "1.0.9",
+  "download_url": "https://raw.githubusercontent.com/jclark2251-dotcom/elementforge-update/main/elementforge-1.0.9.zip",
   "author": "Jarrod Clark",
   "sections": {
     "description": "A lightweight, modular Elementor extension companion.",
-    "changelog": "<h4>1.0.8</h4><ul><li>Updated Author name to Jarrod Clark (Auto-Update Verification Test).</li></ul><h4>1.0.7</h4><ul><li>Migrated update system to GitHub to bypass firewall restrictions.</li><li>Updated Author name to Jarrod.</li></ul>"
+    "changelog": "<h4>1.0.9</h4><ul><li>Finalized automated cache monitor logic to avoid transient blockages.</li><li>Confirmed author name update to Jarrod Clark.</li></ul><h4>1.0.8</h4><ul><li>Updated Author name to Jarrod Clark (Auto-Update Verification Test).</li></ul>"
   },
   "requires": "6.0",
   "tested": "6.5"
