@@ -1,12 +1,12 @@
 {
   "name": "ElementForge",
   "slug": "elementforge",
-  "version": "1.1.2",
-  "download_url": "https://raw.githubusercontent.com/jclark2251-dotcom/elementforge-update/main/elementforge-1.1.2.zip",
+  "version": "1.1.3",
+  "download_url": "https://raw.githubusercontent.com/jclark2251-dotcom/elementforge-update/main/elementforge-1.1.3.zip",
   "author": "Jarrod Clark",
   "sections": {
     "description": "A lightweight, modular Elementor extension companion.",
-    "changelog": "<h4>1.1.2</h4><ul><li>Synchronized ELEMENTFORGE_VERSION constant to fix infinite update loop.</li></ul><h4>1.1.1</h4><ul><li>Final verification test to ensure clean updates when file locks are released.</li></ul><h4>1.1.0</h4><ul><li>Fixed ZIP file path extraction issue during updates.</li></ul>"
+    "changelog": "<h4>1.1.3</h4><ul><li>Fixed WordPress update failure on Windows by disabling temp-backup directory move.</li><li>Synchronized version header and constant to prevent update loops.</li></ul><h4>1.1.2</h4><ul><li>Synchronized ELEMENTFORGE_VERSION constant.</li></ul>"
   },
   "requires": "6.0",
   "tested": "6.5"
