@@ -1,0 +1,13 @@
+{
+  "name": "ElementForge",
+  "slug": "elementforge",
+  "version": "1.0.7",
+  "download_url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/elementforge-update/main/elementforge-1.0.7.zip",
+  "author": "Jarrod",
+  "sections": {
+    "description": "A lightweight, modular Elementor extension companion.",
+    "changelog": "<h4>1.0.7</h4><ul><li>Migrated update system to GitHub to bypass firewall restrictions.</li><li>Updated Author name.</li></ul>"
+  },
+  "requires": "6.0",
+  "tested": "6.5"
+}
